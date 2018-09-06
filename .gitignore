@@ -1,0 +1,11 @@
+**/.idea/
+.vscode/
+**/node_modules/
+server/public/v_static/
+server/public/index.html
+server/public/index.ejs
+npm-debug.log
+env.js
+client/static/json/
+*.o
+*.exe
